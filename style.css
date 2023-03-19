@@ -1,0 +1,18 @@
+body{
+    background-color:chartreuse;
+font-family: monospace;
+}
+#score{
+    font-size: 20px;
+    margin-left:25px;
+
+}
+#time{
+    font-size: 20px;
+    margin-right:25px;
+    float:right;
+}
+#sketch_required{
+    color:red;
+    font-size: 30px;
+}
